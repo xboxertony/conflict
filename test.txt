@@ -3,3 +3,6 @@ edit by main edit by conflict
 edit by vim
 edit bu github
 edit by vim2
+edit by github2
+edit by github3
+edit bu vim3
